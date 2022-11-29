@@ -1,0 +1,20 @@
+              Application for the Hospital's Doctors and Staff
+       ---------------------------------------------------------------
+
+This web app is for Hospital administration where doctors and other staff can sign-in.
+So if you run the application there would be a web interface where you have to put your data
+either you are doctor or any other staff you need to put your information.
+
+> First of all you have to enter your full name and then your contact number. As you are employee
+you need to enter your employee code.
+And then there are options for you and you need to select if you are doctor or any of the other staff.
+After putting all of your information now you can submit your data.
+
+By clicking submit button you would be added in the list of the registration. But now you still can edit
+you information in case you have right anything wrong or you want to change your contact number.
+Or if you want to delete you name then you just need to click on the delete button.
+And on this page you can also go for another entry.
+
+---------------------------------------------------------------------------------------------------------
+
+
